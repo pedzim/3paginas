@@ -1,0 +1,39 @@
+.tudo{
+    background: linear-gradient(#15cbb0, rgb(131, 203, 31), #c0ba15);
+    background-repeat: no-repeat;
+    height: 754px;
+    padding: 88px;
+}
+
+.começo{
+    border-radius: 13px;
+    text-align: center;
+    background: linear-gradient(#69bbae, #96a4f6, #a5a35f);
+    padding: 88px;
+    width: 1250px;
+    max-width: 1300x;
+  height: 400px;
+  float: none;
+  padding-block: 45px;
+}
+
+.botao{
+    border-radius: 17px;
+    background: #4a5bbd;
+    width: 309px;
+    height: 30px;
+}
+
+.botao:hover{
+    background: white;
+}
+
+.para{
+    font-style: normal;
+    background: linear-gradient(rgb(231, 179, 179), rgb(184, 224, 184), rgb(233, 233, 167));
+    border-radius: 30px;
+}
+
+.certo{
+    border-radius:50px;
+}

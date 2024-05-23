@@ -1,0 +1,45 @@
+.tudo {
+   background: rgb(7, 205, 7); 
+   padding: 120px;
+}
+
+.preencha{
+    border-radius: 13px;
+    text-align: center;
+    background: white;
+    height: 240px;
+}
+
+.user{
+   border-radius: 13px;
+   width: 309px;
+   height: 50px;
+}
+
+.botao{
+    border-radius: 17px;
+    background: #4a5bbd;
+    width: 309px;
+    height: 30px;
+}
+
+.botao:hover{
+    background: white;
+}
+
+.aleatorio{
+    text-align: center;
+    font-style: italic;
+    font-size: 23px;
+}
+.semlogin{
+    border-radius: 17px;
+    background: #4a5bbd;
+    width: 309px;
+    height: 30px;
+    font-style: italic;
+}
+
+.semlogin:hover {
+    background: white;
+}
